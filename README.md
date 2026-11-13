@@ -72,13 +72,13 @@ Acompanhe meu perfil para descobrir novas publicações e atualizações dos meu
 <div align="center">
 
 <a href="https://github.com/maicon-create">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maicon-create&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&border_radius=16&locale=pt-br" alt="Estatísticas públicas do GitHub de Maicon Alves" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicon-create&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_radius=16&langs_count=6&locale=pt-br" alt="Linguagens nos repositórios públicos de Maicon Alves" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maicon-create&theme=tokyonight" alt="Estatísticas públicas do GitHub de Maicon Alves" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maicon-create&theme=tokyonight" alt="Distribuição de repositórios públicos por linguagem de Maicon Alves" />
 </a>
 
 <br /><br />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=maicon-create&bg_color=0D1117&color=A78BFA&line=22D3EE&point=A78BFA&area=true&area_color=7C3AED&hide_border=true&radius=16&custom_title=Minha%20atividade%20no%20GitHub" alt="Gráfico recente de contribuições de maicon-create" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maicon-create&theme=tokyonight" alt="Resumo de contribuições de maicon-create" />
 
 <sub>Os painéis dependem de serviços externos e podem ficar temporariamente indisponíveis. Linguagens refletem código dos repositórios, não nível de domínio.</sub>
 
